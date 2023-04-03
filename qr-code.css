@@ -1,0 +1,17 @@
+body{font-family: 'Outfit';
+  text-align: center;
+  background-color: hsl(212, 45%, 89%) ;}
+#container{background-color: white;
+border-radius: 20px;
+width: 25em;
+display: grid;
+place-items: center;
+padding-top: 30px;
+padding-bottom: 30px;
+margin-inline:auto;
+}
+p{color: hsl(220, 15%, 55%);
+font-size: 20px;
+width: 300px;}
+img{width: 20em;
+border-radius: 20px;}
